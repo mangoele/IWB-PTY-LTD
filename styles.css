@@ -96,7 +96,7 @@ body {
   background: linear-gradient(180deg, var(--accent-light), var(--bg));
   color: white;
   text-align: center;
-  background: url(images.jf);
+  background: url(images.jfif);
 }
 
 .hero h1 {
@@ -283,6 +283,7 @@ button.btn-primary:hover {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
