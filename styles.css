@@ -129,6 +129,7 @@ body {
 /* Content Sections */
 .content {
   padding: 2.5rem 1rem;
+  text-aling:center;
 }
 
 .grid.two-col {
@@ -283,6 +284,7 @@ button.btn-primary:hover {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
