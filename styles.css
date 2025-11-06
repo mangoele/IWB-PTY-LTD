@@ -1,16 +1,15 @@
 
 
-/* ======= assets/styles.css (Enhanced with More Colors and Modern Look) ======= */
 
 :root {
-  --accent: #008060;           /* Deep green accent */
-  --accent-light: #00a878;     /* Light green */
-  --dark: #062b2b;             /* Dark teal */
-  --muted: #6e7d7d;            /* Muted grayish text */
-  --bg: #f4f9f8;               /* Light mint background */
-  --card: #ffffff;             /* White cards */
-  --footer-bg: #003c3c;        /* Dark footer background */
-  --footer-text: #c8e6e2;      /* Light text for footer */
+  --accent: #008060;           
+  --accent-light: #00a878;     
+  --dark: #062b2b;             
+  --muted: #6e7d7d;            
+  --bg: #f4f9f8;               
+  --card: #ffffff;             
+  --footer-bg: #003c3c;        
+  --footer-text: #c8e6e2;     
 }
 
 * {
@@ -97,6 +96,7 @@ body {
   background: linear-gradient(180deg, var(--accent-light), var(--bg));
   color: white;
   text-align: center;
+  background: url(images.jf);
 }
 
 .hero h1 {
@@ -283,6 +283,7 @@ button.btn-primary:hover {
     grid-template-columns: 1fr;
   }
 }
+
 
 
 
